@@ -13,6 +13,9 @@
 		F78625832495255E00FB8BBA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F78625812495255E00FB8BBA /* Main.storyboard */; };
 		F78625852495256300FB8BBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F78625842495256300FB8BBA /* Assets.xcassets */; };
 		F78625882495256300FB8BBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F78625862495256300FB8BBA /* LaunchScreen.storyboard */; };
+		F78627E724968F4300FB8BBA /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78627E624968F4300FB8BBA /* Constants.swift */; };
+		F78627E92496936700FB8BBA /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78627E82496936700FB8BBA /* Video.swift */; };
+		F78627EB249693CA00FB8BBA /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78627EA249693CA00FB8BBA /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		F78625842495256300FB8BBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F78625872495256300FB8BBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F78625892495256300FB8BBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F78627E624968F4300FB8BBA /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		F78627E82496936700FB8BBA /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		F78627EA249693CA00FB8BBA /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				F786257B2495255E00FB8BBA /* AppDelegate.swift */,
 				F786257D2495255E00FB8BBA /* SceneDelegate.swift */,
 				F786257F2495255E00FB8BBA /* ViewController.swift */,
+				F78627E624968F4300FB8BBA /* Constants.swift */,
+				F78627E82496936700FB8BBA /* Video.swift */,
+				F78627EA249693CA00FB8BBA /* Model.swift */,
 				F78625812495255E00FB8BBA /* Main.storyboard */,
 				F78625842495256300FB8BBA /* Assets.xcassets */,
 				F78625862495256300FB8BBA /* LaunchScreen.storyboard */,
@@ -141,6 +150,9 @@
 				F78625802495255E00FB8BBA /* ViewController.swift in Sources */,
 				F786257C2495255E00FB8BBA /* AppDelegate.swift in Sources */,
 				F786257E2495255E00FB8BBA /* SceneDelegate.swift in Sources */,
+				F78627EB249693CA00FB8BBA /* Model.swift in Sources */,
+				F78627E724968F4300FB8BBA /* Constants.swift in Sources */,
+				F78627E92496936700FB8BBA /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
